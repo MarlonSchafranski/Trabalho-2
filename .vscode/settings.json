@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "Calc.C": "cpp",
+        "exibeAltera.C": "cpp",
+        "exibeAltera2.C": "cpp",
+        "exibeAltera3.C": "cpp",
+        "incrementar.C": "cpp",
+        "muda.C": "cpp",
+        "soma.C": "cpp",
+        "verificar-2.C": "cpp",
+        "verificar.C": "cpp"
+    }
+}
